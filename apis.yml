@@ -22,6 +22,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/western-alliance-bancorp.png
 tags:
   - Banking
+  - Financial-Services
+  - Commercial Banking
+  - Fortune 500
+tags_raw:
+  - Banking
   - Financial Services
   - Commercial Banking
   - Fortune 500
