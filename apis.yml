@@ -64,3 +64,5 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-parent: western-alliance
+x-relationship: product
